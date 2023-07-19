@@ -2,7 +2,7 @@
 import numpy as np
 from copy import deepcopy
 from string import capwords
-from gym.envs.registration import register
+from gymnasium.envs.registration import register
 import numpy as np
 
 
