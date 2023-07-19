@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
-import gym
+import gymnasium as gym
 import safety_gym  # noqa
 import numpy as np  # noqa
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import unittest
-import gym
+import gymnasium as gym
 import safety_gym.envs  # noqa
 
 

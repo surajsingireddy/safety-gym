@@ -5,7 +5,7 @@ import numpy as np
 import joblib
 import os
 import os.path as osp
-import gym
+import gymnasium as gym
 import safety_gym
 from safety_gym.envs.engine import Engine
 
